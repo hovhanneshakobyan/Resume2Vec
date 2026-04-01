@@ -1,5 +1,15 @@
 # Resume2Vec — ATS Resume Optimizer
 
+# Generative AI
+**Course:** Generative AI  
+**Lecturer:** V. Avetisyan  
+**University:** NPUA  
+
+**Students:**  
+- Hovhannes Hakobyan  
+- Hakobyan Spartak
+
+
 Resume2Vec is a Generative AI project for optimizing resumes for Applicant Tracking Systems (ATS).
 
 The system:
